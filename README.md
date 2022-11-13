@@ -1,5 +1,5 @@
 ### Hi there 👋
-This about me :😎😎😎
+This is about me :😎😎😎
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
 <h3 align="center">A passionate backend & frontend developer from India</h3>
 
