@@ -248,23 +248,7 @@
 
 </td></tr></table>  
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=surajsinghdevloper&"
-    alt="surajsinghdevloper"
-  />
-</p>
-<br/>  
 
-<p>
-  <img
-    align="left" height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=surajsinghdevloper&show_icons=true&locale=en&layout=compact"
-    alt="surajsinghdevloper"
-  />
-</p>
-<br />
 
 <br />
 
