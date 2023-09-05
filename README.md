@@ -38,7 +38,7 @@
     <a href="https://twitter.com/suraj31kumar191" target="blank"
       ><img
         src="https://img.shields.io/twitter/follow/@suraj31kumar191?logo=twitter&style=for-the-badge"
-        alt="@suraj31kumar191"
+        alt="@suraj31kumar1999@gmail.com"
     /></a>
   </p>
 </div>
