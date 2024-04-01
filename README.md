@@ -1,6 +1,6 @@
 ### Hi there 👋 This is about me :😎😎😎
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
-<h3 align="center">A passionate backend & frontend developer from India</h3>
+<h3 align="center">A passionate full stack  developer from India</h3>
 
 <p align="left">
   <img
@@ -16,11 +16,12 @@
   src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
 />
 
-- 🔭 I’m currently working on **Ecommerce Web App using MERN** 
-- 🌱 I’m currently learning **Spring Boot** 
+- 🔭 I’m currently working on **News Web App using Spring-Boot for Backend and Next-js for frontend** 
+- 🌱 I’m currently learning **Dev ops** 
 - 👨‍💻 All of my projects are available at [https://github.com/SurajSinghDevloper](https://github.com/SurajSinghDevloper) 
--💬 Ask me about **Java, React, Html, Css, bootStrap, JSP** 
-- 📫 How to reach me **suraj31kumar1999@gmail.com** 
+-💬 Ask me about **Java, Spring-Boot, React, Html, Css, bootStrap, JSP** 
+- 📫 How to reach me **suraj31kumar1999@gmail.com**
+- 🧑‍💼 My Portfolio [https://surajkumarportfolio.vercel.app/]
 - 📄 Know about my experiences[https://www.linkedin.com/in/suraj-kumar-442277230/](https://www.linkedin.com/in/suraj-kumar-442277230/)
 <br />
 <br />
