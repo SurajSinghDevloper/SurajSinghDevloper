@@ -21,7 +21,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/SurajSinghDevloper](https://github.com/SurajSinghDevloper) 
 -💬 Ask me about **Java, Spring-Boot, React, Html, Css, bootStrap, JSP** 
 - 📫 How to reach me **suraj31kumar1999@gmail.com**
-- 🧑‍💼 My Portfolio [https://surajkumarportfolio.vercel.app/]
+- 🧑‍💼 My Portfolio [https://surajkumarportfolio.vercel.app/](https://surajkumarportfolio.vercel.app/)
 - 📄 Know about my experiences[https://www.linkedin.com/in/suraj-kumar-442277230/](https://www.linkedin.com/in/suraj-kumar-442277230/)
 <br />
 <br />
