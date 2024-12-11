@@ -11,15 +11,30 @@
   <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
 </p>
 
-<ul>
-  <li>🔭 I’m currently working on <b>School ERP using MERN</b></li>
-  <li>🌱 I’m currently learning <b>DevOps</b></li>
-  <li>👨‍💻 All of my projects are available at <a href="https://github.com/SurajSinghDevloper">My GitHub</a></li>
-  <li>💬 Ask me about <b>Java, Spring Boot, React, HTML, CSS, Bootstrap, JSP</b></li>
-  <li>📫 Reach me at <b>suraj31kumar1999@gmail.com</b></li>
-  <li>🧑‍💼 My Portfolio: <a href="https://surajkumarportfolio.vercel.app">surajkumarportfolio.vercel.app</a></li>
-  <li>📄 Check my experiences on <a href="https://www.linkedin.com/in/suraj-kumar-442277230/">LinkedIn</a></li>
-</ul>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; margin-right: 20px;">
+    <ul>
+      <li>🔭 I’m currently working on <b>School ERP using MERN</b></li>
+      <li>🌱 I’m currently learning <b>DevOps</b></li>
+      <li>👨‍💻 All of my projects are available at <a href="https://github.com/SurajSinghDevloper">My GitHub</a></li>
+      <li>💬 Ask me about <b>Java, Spring Boot, React, HTML, CSS, Bootstrap, JSP</b></li>
+      <li>📫 Reach me at <b>suraj31kumar1999@gmail.com</b></li>
+      <li>🧑‍💼 My Portfolio: <a href="https://surajkumarportfolio.vercel.app">surajkumarportfolio.vercel.app</a></li>
+      <li>📄 Check my experiences on <a href="https://www.linkedin.com/in/suraj-kumar-442277230/">LinkedIn</a></li>
+    </ul>
+  </div>
+  <div>
+    <p align="center">
+      <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
+    </p>
+  </div>
+</div>
+
+<p align="center">
+  <ul>
+    <li align="center">Below content in the center</li>
+  </ul>
+</p>
 
 ---
 
